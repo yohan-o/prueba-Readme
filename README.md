@@ -23,6 +23,9 @@ Se ha implementado un sistema de diseño basado en principios de **usabilidad in
   - Cuerpo: 16px para datos de sensores y formularios.
   - Labels: 12px (Uppercase) para etiquetas de telemetría.
 
+  <img width="712" height="338" alt="image" src="https://github.com/user-attachments/assets/5e92c42a-dbde-47b4-b5f7-b5eca89a6d4b" />
+
+
 ### 🍱 Componentes Core (UI Library)
 - **Botones:** Tamaño mínimo de 44x44px para facilitar la interacción táctil en pantallas industriales.
 - **Indicadores de Estado:** Badges dinámicos que cambian de color según el estado del robot.
