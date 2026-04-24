@@ -14,6 +14,9 @@ Se ha implementado un sistema de diseño basado en principios de **usabilidad in
   - `Danger (#D32F2F)`: Paros de emergencia, errores críticos y desconexión.
   - `Background (#F4F7FA)`: Fondo neutro para mejorar el contraste de datos.
 
+  <img width="727" height="223" alt="image" src="https://github.com/user-attachments/assets/825d87d8-3884-48f7-b6e4-e5d62cb711f8" />
+
+
 ### 🔡 Tipografía
 - **Fuente:** `Inter` / `Roboto` (Sans-serif).
 - **Jerarquía:** - Títulos: 24px (Bold) para encabezados de sección.
