@@ -41,15 +41,12 @@ La HMI se divide en los siguientes módulos funcionales:
 ## 3. Integración Técnica (Backend & WebSockets)
 
 La interfaz está diseñada para consumir datos en tiempo real mediante el protocolo **WebSocket (ws://)**, permitiendo:
-- Visualización de la posición X-Y-Z del robot sin recargar la página.
+- Visualización de la posición robot sin recargar la página.
 - Actualización instantánea del stock al realizar movimientos.
 - Notificaciones de alarma inmediatas (Push notifications en UI).
 
 ### Pruebas de Conexión
-Se incluyen scripts de prueba unitaria para validar:
-- Handshake inicial con el backend.
-- Integridad de los paquetes JSON recibidos.
-- Tiempo de latencia en la actualización de señales críticas.
+
 
 ---
 
