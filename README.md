@@ -2,7 +2,7 @@
 
 Este repositorio contiene el subsistema de Interfaz Hombre-Máquina (HMI) para el control y supervisión de un sistema **AS/RS (Automated Storage and Retrieval System)**. Desarrollado con **React.js**, este frontend permite la gestión de inventario, monitoreo de telemetría y control del transelevador en tiempo real.
 
-## 1. Sistema de Diseño Visual (Entregable Actividad 1)
+## 1. Sistema de Diseño Visual
 
 Se ha implementado un sistema de diseño basado en principios de **usabilidad industrial**, priorizando la legibilidad, la reducción de la fatiga visual y la respuesta rápida del operador.
 
